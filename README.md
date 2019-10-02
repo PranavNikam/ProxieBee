@@ -9,7 +9,7 @@ Technology used:
  - [Backend REST  - Python](https://github.com/NazimAmin/api.ndtndt)  
  - DB - SQL
 
-### Build & development & Dependencies front-end
+#### Build & development & Dependencies front-end
 
 1. Clone `git clone https://github.com/NazimAmin/ndtndt` -
 
